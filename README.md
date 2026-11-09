@@ -1,4 +1,4 @@
-# 3D Point Cloud-to-Mesh Distance Analysis
+# 3D Geometric Deviation Analysis
 
 Analyze geometric deviations between a scanned 3D point cloud and a reference CAD mesh using **Open3D**, **PyVista**, **NumPy**, and **Matplotlib**. The project computes point-to-mesh distances, visualizes deviations using distance-based color mapping, and provides interactive threshold-based point cloud segmentation.
 
