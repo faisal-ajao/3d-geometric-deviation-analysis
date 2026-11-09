@@ -55,7 +55,7 @@ point-cloud-to-mesh-distance-analysis/
 │   └── mesh_car.ply
 │
 ├── outputs/
-│   └── distance_to_mesh_histogram.png
+│   └── README.md
 │
 ├── assets/
 │   ├── cad_model.png
