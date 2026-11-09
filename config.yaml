@@ -1,0 +1,9 @@
+# Input Data
+input_pcd_path: "data/pcd_car.ply"
+input_mesh_path: "data/mesh_car.ply"
+
+# Visualization
+point_size: 2
+
+# Output
+histogram_output_path: "outputs/distance_to_mesh_histogram.png"
